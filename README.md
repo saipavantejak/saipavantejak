@@ -8,6 +8,7 @@
 **Aerospace-trained. AI-obsessed. Brooklyn, NY.**
 
 [![Portfolio](https://img.shields.io/badge/⚡_PORTFOLIO-saipavantejak.github.io-00ff88?style=for-the-badge&logoColor=black)](https://saipavantejak.github.io)
+[![Live Demo](https://img.shields.io/badge/🚁_LIVE_DEMO-copterstudios.com-ff6b35?style=for-the-badge&logoColor=white)](https://copterstudios.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-pavan-teja-kunche-44a33a15b/)
 [![Email](https://img.shields.io/badge/EMAIL-saiptkunche@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiptkunche@gmail.com)
 
