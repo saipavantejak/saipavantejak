@@ -1,6 +1,6 @@
 # SAI PAVAN TEJA KUNCHE
 
-### `AI/ML & Robotics Engineer · Digital Twin Architect · RAG Systems`
+### `AI/ML · Digital Twin Architect · RAG Systems`
 
 *Building production-grade AI systems — from LLM-powered RAG pipelines*  
 *to aerospace-grade Digital Twin simulators with hardware-in-the-loop MAVLink bridges.*
