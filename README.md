@@ -1,11 +1,11 @@
 # SAI PAVAN TEJA KUNCHE
 
-### `AI/ML · Digital Twin Architect · RAG Systems`
+### `Software Engineer | Full-Stack & AI`
 
-*Building production-grade AI systems — from LLM-powered RAG pipelines*  
-*to aerospace-grade Digital Twin simulators with hardware-in-the-loop MAVLink bridges.*
+*Building scalable AI systems — from LLM-powered RAG pipelines*  
+*to distributed task queues and custom search engines.*
 
-**Aerospace-trained. AI-obsessed. Brooklyn, NY.**
+**Full-Stack Builder. Systems & AI-obsessed.**
 
 [![Portfolio](https://img.shields.io/badge/⚡_PORTFOLIO-saipavantejak.github.io-00ff88?style=for-the-badge&logoColor=black)](https://saipavantejak.github.io)
 [![Live Demo](https://img.shields.io/badge/🚁_LIVE_DEMO-copterstudios.com-ff6b35?style=for-the-badge&logoColor=white)](https://copterstudios.com)
@@ -35,15 +35,16 @@
 
 ---
 
-## `// AI SYSTEMS I'VE ENGINEERED`
+## `// SYSTEMS & AI PIPELINES I'VE ENGINEERED`
 
-```
-[ 01 ] DocuQuery AI · TerrierHelper     →  Institutional RAG assistant · Gemini 2.0 Flash · PDF ingestion
-[ 02 ] University Smart Outlook         →  LLM-powered email automation · Hallucination-free drafts
-[ 03 ] Data-Intel Dashboard             →  NL→SQL via Gemini agent · SQLite warehouse · Function calling
-[ 04 ] SFC Email Assistant              →  MS Outlook Add-in · Policy-accurate replies · Office.js pipeline
-[ 05 ] Bi-Copter Hover Controller       →  PPO RL · MuJoCo + Gymnasium · Stable hover @ 1.0m
-[ 06 ] Copter Studio                    →  [FLAGSHIP] · MAVLink v2 HIL · Digital Twin · Browser-deployed
+```text
+[ 01 ] MiniIndex                        →  A dependency-free search engine covering the core mechanics of information retrieval and the data structures behind it
+[ 02 ] TinyQueue                        →  A small distributed-task-queue simulation using Python sockets and multiple independent worker processes
+[ 03 ] TerrierHelper                    →  Institutional RAG assistant · Gemini 2.0 Flash · PDF ingestion
+[ 04 ] University Smart Outlook         →  LLM-powered email automation · Hallucination-free drafts
+[ 05 ] Data-Intel Dashboard             →  NL→SQL via Gemini agent · SQLite warehouse · Function calling
+[ 06 ] SFC Email Assistant              →  MS Outlook Add-in · Policy-accurate replies · Office.js pipeline
+[ 07 ] Bi-Copter Hover Controller       →  PPO RL · MuJoCo + Gymnasium · Stable hover @ 1.0m
 ```
 
 ---
@@ -103,7 +104,7 @@
 ## `// EDUCATION`
 
 ```
-🎓  M.S. Information Technology Management  ·  St. Francis College, Brooklyn NY  ·  2023–Present
+🎓  M.S. Information Technology Management  ·  St. Francis College, Brooklyn NY  ·  2023–2026
 🚀  B.Tech Aerospace Engineering            ·  Lovely Professional University, India  ·  2017–2021
 ```
 
@@ -114,7 +115,7 @@
 ```
 █████████████████████████████████████████████████████████████
 █                                                           █
-█   ACTIVELY SEEKING · AI/ML · ROBOTICS · AEROSPACE AI     █
+█   ACTIVELY SEEKING · AI/ML · Software Engineer Roles.     █
 █   Building intelligent autonomous systems & digital twins █
 █                                                           █
 █████████████████████████████████████████████████████████████
